@@ -1,2 +1,2 @@
 # nightclub_emulator
-Простейший эмулятор ночного клуба с произвольным количеством разных персонажей
+Simple emulator of a night club with random quantity of different persons
